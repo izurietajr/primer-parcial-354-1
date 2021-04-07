@@ -1,3 +1,11 @@
 * Primer parcial 354 Pregunta 1
 
 Jesus Rodolfo Izurieta Veliz
+
+Seleccione un dataset de los propuestos por su persona en una anterior tarea,
+esta debe ser tabular de al menos 1000 filas y 5 columnas. Realice lo siguiente:
+
+1. La media, moda y la desviación estándar por columna; explique qué significa
+   en cada caso mediante Python sin uso de librerías
+2. La media, la moda, la desviación estándar con el uso de numpy y pandas
+3. Grafique los datos y explique su comportamiento (PYTHON)

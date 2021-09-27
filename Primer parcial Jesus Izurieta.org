@@ -5,6 +5,8 @@
 #+options: toc
 
 
+Dirección del repositorio: https://github.com/izurietajr/primer-parcial-354-1
+
 * Introducción
 
 ** Selección del dataset
@@ -52,8 +54,6 @@ presenta parte del desarrollo, el código completo se encuentra en los
 repositorios específicos de cada pregunta.
 
 ** Pregunta 1
-
-Dirección del repositorio: https://github.com/izurietajr/primer-parcial-354-1
 
 Seleccione un dataset de los propuestos por su persona en una anterior tarea, esta debe ser tabular de al menos 1000 filas y 5 columnas. Realice lo siguiente:
 
@@ -309,9 +309,7 @@ Con esto, obtenemos el gráfico:
 
 [[./img/hist.png]]
 
-** Pregunta 2
 
-Dirección del repositorio: https://github.com/izurietajr/primer-parcial-354-2
 
 * Referencias
 
